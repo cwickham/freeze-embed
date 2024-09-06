@@ -1,0 +1,10 @@
+---
+title: "R"
+format: html
+---
+
+```{r}
+#| label: addition
+1 + 1
+```
+

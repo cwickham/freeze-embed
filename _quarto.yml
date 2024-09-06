@@ -2,6 +2,7 @@ project:
   title: "freeze-embed"
   type: website
 
-
+execute:
+  freeze: auto
 
 

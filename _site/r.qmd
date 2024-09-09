@@ -1,9 +1,0 @@
----
-title: "R"
----
-
-```{r}
-#| label: addition
-1 + 1
-```
-

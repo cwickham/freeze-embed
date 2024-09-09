@@ -1,6 +1,5 @@
 ---
 title: "Index"
-format: html
 ---
 
 {{< embed r.qmd#addition >}}
